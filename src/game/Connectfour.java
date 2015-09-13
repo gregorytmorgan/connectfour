@@ -40,8 +40,6 @@ public class Connectfour {
 				}
 			}
 
-//System.out.print("Debug - move:" + move + "\n");
-
 		} while (!done);
 
 		ui.gameEpilog(data);
